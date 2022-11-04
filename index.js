@@ -1,28 +1,28 @@
-"Use strict";
-const pizzaPalace = {
-  pizzas: ["Ultracheese", "Smoked", "Four meats"],
-    order(pizzaName, makePizza, onOrderError) {
-        if (!this.pizzas.includes(pizzaName)) {
-            return onOrderError(`There is no pizza with a name ${pizzaName} in the assortment.`);
-        }
-        
-        return makePizza(pizzaName);
-  },
+'use strict';
+
+const boxEl = document.querySelector('.content');
+
+let player = "X";
+
+let marcUp = '';
+
+for (let i = 0; i < 9; i += 1) {
+  marcUp += `<div class="item"></div>`;
+}
+
+boxEl.insertAdjacentHTML('beforeend', marcUp);
+
+const onBoxElClick = (e) => {
+  console.log(e.target);
+  if (e.target.textContent) {
+    return;
+  }
+  
+  e.target.textContent = player;
+
+  player = player === "X" ? "0" : "X";
+  
+  
 };
-// Change code above this line
 
-// Callback for onSuccess
-function makePizza(pizzaName) {
-  return `Your order is accepted. Cooking pizza ${pizzaName}.`;
-}
-
-// Callback for onError
-function onOrderError(error) {
-  return `Error! ${error}`;
-}
-
-// Method calls with callbacks
-console.log(pizzaPalace.order("Smoked", makePizza, onOrderError));
-pizzaPalace.order("Four meats", makePizza, onOrderError);
-pizzaPalace.order("Big Mike", makePizza, onOrderError);
-pizzaPalace.order("Vienna", makePizza, onOrderError);
+boxEl.addEventListener('click', onBoxElClick);
