@@ -1,4 +1,4 @@
-4167
+4169
 49P:\CloneGitHub\training\node_modules\htmlnano\lib133128146924617696 1
 58P:\CloneGitHub\training\node_modules\cosmiconfig\README.md133128146943437866 0
 45P:\CloneGitHub\training\node_modules\get-port133128146907815471 1
@@ -14,7 +14,7 @@
 74P:\CloneGitHub\training\node_modules\caniuse-lite\data\features\streams.js133128147053264179 0
 73P:\CloneGitHub\training\node_modules\htmlparser2\lib\FeedHandler.d.ts.map133128146919471025 0
 51P:\CloneGitHub\training\node_modules\lmdb\README.md133128146974027951 0
-28P:\CloneGitHub\training\dist133128187842615454 1
+28P:\CloneGitHub\training\dist133129172155622450 1
 75P:\CloneGitHub\training\node_modules\posthtml-parser\dist\chunk.T6SARJYH.js133128146899145451 0
 60P:\CloneGitHub\training\node_modules\ordered-binary\index.js133128146907377476 0
 94P:\CloneGitHub\training\node_modules\@parcel\runtime-js\src\helpers\browser\prefetch-loader.js133128146944871018 0
@@ -58,7 +58,7 @@
 66P:\CloneGitHub\training\node_modules\utility-types\dist\index.d.ts133128146931735003 0
 68P:\CloneGitHub\training\node_modules\cosmiconfig\dist\types.d.ts.map133128146942094794 0
 72P:\CloneGitHub\training\node_modules\svgo\plugins\convertStyleToAttrs.js133128146936734746 0
-36P:\CloneGitHub\training\src\index.js133128187666164464 0
+36P:\CloneGitHub\training\src\index.js133129172153289237 0
 64P:\CloneGitHub\training\node_modules\lightningcss\node\index.mjs133128146916195964 0
 101P:\CloneGitHub\training\node_modules\@parcel\core\test\fixtures\custom-format-infer-type\package.json133128146977053114 0
 72P:\CloneGitHub\training\node_modules\caniuse-lite\data\features\asmjs.js133128146946204421 0
@@ -1259,7 +1259,7 @@
 53P:\CloneGitHub\training\node_modules\stable\stable.js133128146904730391 0
 72P:\CloneGitHub\training\node_modules\caniuse-lite\data\features\fetch.js133128147026313215 0
 55P:\CloneGitHub\training\node_modules\msgpackr\README.md133128146952614631 0
-39P:\CloneGitHub\training\dist\index.html133128163103044431 0
+39P:\CloneGitHub\training\dist\index.html133128192712446837 0
 80P:\CloneGitHub\training\node_modules\caniuse-lite\data\features\css-image-set.js133128146976203068 0
 93P:\CloneGitHub\training\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json133128146977512441 0
 63P:\CloneGitHub\training\node_modules\@parcel\core\src\worker.js133128146975983050 0
@@ -2834,6 +2834,7 @@
 79P:\CloneGitHub\training\node_modules\@parcel\node-resolver-core\src\builtins.js133128146932255024 0
 83P:\CloneGitHub\training\node_modules\caniuse-lite\data\features\css-focus-within.js133128146975148009 0
 94P:\CloneGitHub\training\node_modules\caniuse-lite\data\features\css-font-rendering-controls.js133128146975303013 0
+50P:\CloneGitHub\training\dist\index.7a6cbe94.js.map133128192712576834 0
 85P:\CloneGitHub\training\node_modules\caniuse-lite\data\features\css-grid-animation.js133128146975703039 0
 93P:\CloneGitHub\training\node_modules\@parcel\optimizer-image\parcel-image.win32-x64-msvc.node133128146969766060 0
 64P:\CloneGitHub\training\node_modules\@parcel\events\src\index.js133128146919241013 0
@@ -4162,7 +4163,8 @@
 46P:\CloneGitHub\training\node_modules\.bin\svgo133128147062482892 0
 46P:\CloneGitHub\training\dist\index.039b76ad.js133128158132519857 0
 50P:\CloneGitHub\training\dist\index.039b76ad.js.map133128158132719876 0
+46P:\CloneGitHub\training\dist\index.7a6cbe94.js133128192712446837 0
 46P:\CloneGitHub\training\dist\index.82ea0bf2.js133128161977514170 0
 50P:\CloneGitHub\training\dist\index.82ea0bf2.js.map133128161977684183 0
-46P:\CloneGitHub\training\dist\index.975ef6c8.js133128187842305434 0
-50P:\CloneGitHub\training\dist\index.975ef6c8.js.map133128187842575458 0
+46P:\CloneGitHub\training\dist\index.975ef6c8.js133129172155447434 0
+50P:\CloneGitHub\training\dist\index.975ef6c8.js.map133129172155597459 0
