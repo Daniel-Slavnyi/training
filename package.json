@@ -21,5 +21,8 @@
   "homepage": "https://github.com/Daniel-Slavnyi/training#readme",
   "devDependencies": {
     "parcel": "^2.8.0"
+  },
+  "dependencies": {
+    "voca": "^1.4.0"
   }
 }

@@ -4,11 +4,43 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script type="module" src="./index.js"></script>
+    <script type="module" src="./js/second.js"></script>
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello world</h1>
-    <p>hello</p>
+    <div class="form__group">
+        <input type="text" class="form-field" name="string" if="str" required>
+        <label for="str" class="form-label">String to transform</label>
+    </div>
+    <div class="controls">
+        <div class="result-str">
+            <button class="btn-camel" data-name="camelCase" type="button">Transform to camelCase</button>
+            <span>camelCase</span>
+        </div>
+        <div class="result-str">
+            <button class="btn-kebab" data-name="kebabCase" type="button">Transform to kebab-case</button>
+            <span>cebab-case</span>
+        </div>
+        <div class="result-str">
+            <button class="btn-snake" data-name="snakeCase" type="button">Transform to Snake Case </button>
+            <span>Snake case</span>
+        </div>
+        <div class="result-str">
+            <button class="btn-swap" data-name="swapCase" type="button">Transform to Swap Case</button>
+            <span>Swap Case</span>
+        </div>
+        <div class="result-str">
+            <button class="btn-lower" data-name="lowerCase" type="button">Transform to Lower case</button>
+            <span>Lower Case</span>
+        </div>
+        <div class="result-str">
+            <button class="btn-upper" data-name="upperCase" type="button">Transform to Upper case</button>
+            <span>Upper case</span>
+        </div>
+        <div class="result-str">
+            <button class="btn-upper" data-name="titleCase" type="button">Transform to Title case</button>
+            <span>Title case</span>
+        </div>
+    </div>
 </body>
 </html>
